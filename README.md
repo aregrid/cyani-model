@@ -1,1 +1,1 @@
-# CyaniStudio
+# cyani-model
